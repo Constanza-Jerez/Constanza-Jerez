@@ -100,7 +100,7 @@ Mi motor es el aprendizaje continuo: ***siempre estoy con la motivación de apre
   <!-- 8. Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
+      src="![power](https://github.com/user-attachments/assets/d9b86496-c7c2-4c8e-8565-533ac2ca9e89)"
       alt="Power BI"
       width="40"
       height="40"
