@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Constanza Jerez</h1>
 <h3 align="center">Analista de datos</h3>
 
-Actualmente, me especializo en análisis de datos, profundizando mis conocimientos en ***Power BI, Python, SQL*** y estudiando para la certificación ***PL-300 - Power BI Data Analyst Associate de Microsoft***, para ampliar mis competencias en el ámbito de la nube.
+Actualmente, me especializo en análisis de datos, profundizando mis conocimientos en ***Python, SQL, Power BI***. Actualmente me encuentro estudiando en el bootcamp de ***Especialidad de Ciencia de Datos*** - por Talento Digital y Edutecno.
 
 Mi motor es el aprendizaje continuo. Estoy en constante búsqueda de nuevas oportunidades para mejorar tanto en el ámbito profesional como en el personal.
 
