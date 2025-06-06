@@ -22,7 +22,7 @@ Mi motor es el aprendizaje continuo: ***siempre estoy con la motivación de apre
   <a href="https://www.microsoft.com/sql-server" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40" width="40" /></a>
    <a href="https://www.sas.com" target="blank">
-    <img src="![Image](https://github.com/user-attachments/assets/d9b86496-c7c2-4c8e-8565-533ac2ca9e89)" alt="SAS" height="40" width="40" /></a>
+    <img src="images/logo_SAS.png" alt="SAS" height="40" width="40" /></a>
   
 </p>
 <h3 align="left">Lenguajes y herramientas:</h3>
@@ -100,9 +100,9 @@ Mi motor es el aprendizaje continuo: ***siempre estoy con la motivación de apre
   <!-- 8. Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img
-      src="![power](https://github.com/user-attachments/assets/d9b86496-c7c2-4c8e-8565-533ac2ca9e89)"
+      src="images/powerbi-original.jpg"
       alt="Power BI"
-      width="40"
+      width="80"
       height="40"
       style="margin-right: 10px;"
     /></a>
@@ -110,7 +110,7 @@ Mi motor es el aprendizaje continuo: ***siempre estoy con la motivación de apre
   <!-- 9. SAS -->
   <a href="https://www.sas.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg"
+      src="images/logo_SAS.png"
       alt="SAS"
       width="40"
       height="40"
