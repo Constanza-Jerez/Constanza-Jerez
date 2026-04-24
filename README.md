@@ -2,6 +2,7 @@
 <h3 align="center">Analista de datos</h3>
 
 Me especializo en análisis de datos, profundizando mis conocimientos en **Python, SQL y Power BI**. Trabajo en proyectos de ETL y visualización de datos.
+
 Mi motor es el aprendizaje continuo: ***siempre estoy con la motivación de aprender y buscar nuevos desafíos***.
 
 
