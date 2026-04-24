@@ -1,8 +1,7 @@
 <h1 align="center">Hola, soy Constanza (Cony) Jerez</h1>
 <h3 align="center">Analista de datos</h3>
 
-Me especializo en análisis de datos, profundizando mis conocimientos en **Python, SQL y Power BI**. Trabajo en proyectos de ETL y visualización de datos. Además, estoy cursando el bootcamp de *Especialidad de Ciencia de Datos 2025* (Talento Digital y Edutecno).
-
+Me especializo en análisis de datos, profundizando mis conocimientos en **Python, SQL y Power BI**. Trabajo en proyectos de ETL y visualización de datos.
 Mi motor es el aprendizaje continuo: ***siempre estoy con la motivación de aprender y buscar nuevos desafíos***.
 
 
